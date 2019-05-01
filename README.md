@@ -26,7 +26,7 @@ Dans le boutton *Download RESUME* c'est mon CV en PDF. Practique pour les employ
 Mon Website est conforme a la loi **GDPR**.
 
 ### PAGE D'ACCUEIL
-![](home.png)
+![](Home.png)
 ### TABLEAU DE BORD
 ![](dashboard.png)
 
